@@ -1,4 +1,4 @@
-# Solution to MATLAB and Simulink Challenge project <'project number'> <'Project Title'>
+# Solution to MATLAB and Simulink Challenge project 230 Aggressive Maneuver Stabilization for a Minidrone
 This is a template repo for MATLAB and Simulink Challenge Project solutions.
 
 Please add the following items:
