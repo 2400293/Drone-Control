@@ -10,6 +10,8 @@ This repository contains a nonlinear quadcopter simulation implementing cascaded
 
 All controllers, dynamics, and parameters are contained in a single MATLAB file, allowing the simulation to be run with one command.
 
+Our report for this assignment is also added to the repository, which can be used to gain further information and details regarding the project (appendices included).
+
 # How to run
 1. Open MATLAB
 2. Set the current folder to the repository directory
@@ -21,7 +23,7 @@ No additional toolboxes are required.
 # Video Presentation
 [Click here](https://youtu.be/ICeq6gTB0ho)
   
-# Reference
+# References
 [1] Server Racks Online, Overhead Cable Management, 2025. [Online]. Available:
 https://www.server-rack-online.com/overhead-cable-management/. Accessed: May 21,
 2025.
